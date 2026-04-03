@@ -1,0 +1,7 @@
+seleniumbase==4.24.5
+selenium==4.18.1
+argparse
+# Future additions for Phase 2:
+# requests
+# numpy
+# ollama
